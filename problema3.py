@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 #(2 puntos) Tu eres un científico de las relaciones1, y has desarrollado un cuestionario que 
 # determina el puntaje de amor, es decir, un valor real entre cero y cien. Tu teoría es que dos personas

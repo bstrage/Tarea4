@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 #(2 puntos) Eres un profesor vengativo y una de tus manías es que los estudiantes se apresuren
 #en sus exámenes. Para darles una lección, decides dar ceros a los tres primeros estudiantes que
